@@ -1289,12 +1289,12 @@ body {
 }
 .cid-qYhff41h5M .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-qYhff41h5M .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #000000;
 }
 .cid-qYhff41h5M a {
   font-style: normal;
@@ -1378,7 +1378,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qYhff41h5M .dropdown .dropdown-menu {
-  background: #232323;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;

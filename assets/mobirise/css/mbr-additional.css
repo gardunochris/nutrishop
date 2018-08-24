@@ -1840,6 +1840,11 @@ body {
 .cid-qYhDTWQoE0 .card .panel-body {
   color: #767676;
 }
+.cid-r1FuR4Eb50 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/tropical-beach-background-21-1920x1200.jpg");
+}
 .cid-qYhLum8VVe {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1877,21 +1882,6 @@ body {
   flex-direction: column-reverse;
   -webkit-flex-direction: column-reverse;
 }
-.cid-qYhHqWNcRu {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/shutterstock-573033001-e1507281330260-770x514.jpg");
-}
-.cid-qYhHqWNcRu .mbr-iconfont-social {
-  font-size: 32px;
-  color: #f7ed4a;
-}
-.cid-qYhHqWNcRu .social-list a:focus {
-  text-decoration: none;
-}
-.cid-qYhHqWNcRu H2 {
-  color: #ffffff;
-}
 .cid-qYhPA5GyUj {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1908,6 +1898,21 @@ body {
 }
 .cid-qYhPA5GyUj .mbr-author-desc {
   color: #232;
+}
+.cid-qYhHqWNcRu {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/shutterstock-573033001-e1507281330260-770x514.jpg");
+}
+.cid-qYhHqWNcRu .mbr-iconfont-social {
+  font-size: 32px;
+  color: #f7ed4a;
+}
+.cid-qYhHqWNcRu .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qYhHqWNcRu H2 {
+  color: #ffffff;
 }
 .cid-qYhJ33wf8P {
   padding-top: 30px;

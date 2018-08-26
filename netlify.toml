@@ -1,15 +1,15 @@
 [[redirects]]
   from = "/shop"
   to = "https://www.nutrishopusa.com/store-referral/718"
-  
+  [[redirects]]
   from = "/mobile/"
   to = "/"
-  
+  [[redirects]]
   from = "/locations/"
   to = "/"
-  
+  [[redirects]]
   from = "/about-us/"
   to = "/"
-  
+  [[redirects]]
   from = "/contact-us/"
   to = "/"

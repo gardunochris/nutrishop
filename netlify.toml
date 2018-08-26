@@ -2,14 +2,14 @@
   from = "/shop"
   to = "https://www.nutrishopusa.com/store-referral/718"
   
-  from = "/mobile"
+  from = "/mobile/"
   to = "/"
   
-  from = "/locations"
+  from = "/locations/"
   to = "/"
   
-  from = "/about-us"
+  from = "/about-us/"
   to = "/"
   
-  from = "/contact-us"
+  from = "/contact-us/"
   to = "/"

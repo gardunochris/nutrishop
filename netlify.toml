@@ -1,3 +1,6 @@
 [[redirects]]
   from = "/shop"
   to = "https://www.nutrishopusa.com/store-referral/718"
+  
+  from = "/mobile"
+  to = "/"

@@ -4,3 +4,12 @@
   
   from = "/mobile"
   to = "/"
+  
+  from = "/locations"
+  to = "/"
+  
+  from = "/about-us"
+  to = "/"
+  
+  from = "/contact-us"
+  to = "/"

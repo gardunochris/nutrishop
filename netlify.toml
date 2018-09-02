@@ -13,3 +13,6 @@
   [[redirects]]
   from = "/contact-us/"
   to = "/"
+  [[redirects]]
+  from = "/products/"
+  to = "/"

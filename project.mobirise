@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#1860df",
         "#000000",
-        "#eeb268"
+        "#eeb268",
+        "#462ead"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -825,7 +826,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "@NutrishopFresno",
+          "title": "INSTAGRAM @NutrishopFresno",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
@@ -837,7 +838,7 @@
           "_anchor": "instagram-feed-block-k",
           "_styles": {
             ".inst__title": {
-              "color": "#ffffff"
+              "color": "#462ead"
             }
           }
         },

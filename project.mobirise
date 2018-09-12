@@ -29,7 +29,8 @@
       },
       "additionalSetColors": [
         "#1860df",
-        "#000000"
+        "#000000",
+        "#eeb268"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -807,8 +808,8 @@
             "token": "211041378.727bfe1.45232309bff14b0fa9115052af6a5490",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
+            "imagesPerRowGrid": "3",
+            "rows": "2",
             "showMoreButton": true,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
@@ -816,9 +817,9 @@
             "fullWidth": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#eeb268",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "overlay": false,
             "overlayColor": "#efefef",

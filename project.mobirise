@@ -29,9 +29,7 @@
       },
       "additionalSetColors": [
         "#1860df",
-        "#000000",
-        "#eeb268",
-        "#462ead"
+        "#000000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -873,6 +871,31 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": "2",
+            "facebook": "nutrishopfresno",
+            "twitter": "nutrishopfresno",
+            "google": "nutrishopfresno",
+            "youtube": "nutrishopfresno",
+            "bgColorRadio": true,
+            "bgColor": "#1860df",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-k"
         },
         {
           "_styles": {

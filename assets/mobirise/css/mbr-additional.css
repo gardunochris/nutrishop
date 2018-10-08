@@ -1882,9 +1882,12 @@ body {
   flex-direction: column-reverse;
   -webkit-flex-direction: column-reverse;
 }
+#instagram-feed-block-k .inst__title {
+  color: #ffffff;
+}
 .cid-qYhPA5GyUj {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #f3f4f6;
 }
 .cid-qYhPA5GyUj .testimonial-text {
@@ -1898,9 +1901,6 @@ body {
 }
 .cid-qYhPA5GyUj .mbr-author-desc {
   color: #232;
-}
-#instagram-feed-block-k .inst__title {
-  color: #462ead;
 }
 .cid-qYhHqWNcRu {
   padding-top: 90px;

@@ -62,7 +62,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": true,
-    "chatbutton": false
+    "chatbutton": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {

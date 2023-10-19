@@ -63,7 +63,7 @@
     "gdpr": false,
     "pwa-switcher": true,
     "chatbutton": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {

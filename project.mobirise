@@ -54,7 +54,7 @@
     "PWA": {
       "enabled": false
     },
-    "mbrsiteDomain": "ibnpwq5bgh",
+    "mbrsiteDomain": "auxh6fvjij",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -63,7 +63,8 @@
     "gdpr": false,
     "pwa-switcher": true,
     "chatbutton": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false,
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
